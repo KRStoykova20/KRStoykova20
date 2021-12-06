@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think I'm patient.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
