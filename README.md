@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristiyana Stoykova</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on [Rumble](https://github.com/krasimiraruseva1/Physics-Project-Team-Rumble)
-
 - 🌱 I’m currently learning **JavaScript, Html, Css and C++**
 
 - 📫 How to reach me **KRStoykova20@codingburgas.bg**
